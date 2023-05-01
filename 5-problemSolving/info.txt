@@ -1,0 +1,8 @@
+/** @ Problem-Solving. Maintain 4 concepts.
+ * 
+ * 1. Understand the problem.
+ * 2. Break it down.
+ * 3. Solve simplify.
+ * 4. Look back and refactor
+ * 
+ */
